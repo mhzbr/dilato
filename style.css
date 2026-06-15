@@ -44,7 +44,7 @@ video {
 
 .header {
   width: 100%;
-  position: fixed;
+  position: flex;
   top: 0;
   z-index: 99;
   padding: 18px 0;
